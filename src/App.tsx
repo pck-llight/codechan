@@ -8,9 +8,9 @@ export default function App(){
             <MainText>
                 저는 즉흥적으로 행동해<br/>끝을 보는 개발자
             </MainText>
-            {/*<MainText>*/}
-            {/*    <PrimaryText>박찬규</PrimaryText>입니다.*/}
-            {/*</MainText>*/}
+            <MainText>
+                <PrimaryText>박찬규</PrimaryText>입니다.
+            </MainText>
             <CodeChan>Code.Chan</CodeChan>
             <LinkBar>
                 <Link href={"https://www.instagram.com/chankyu_07/"}>instagram</Link>
